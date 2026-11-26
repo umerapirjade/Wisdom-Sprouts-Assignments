@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border;
+    
+}
+#INGREDIENT_STORY{
+    background-image:url('./assets/waves.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rowImgStory{
+   text-align: center;
+   margin-right: 20px;
+}
+.com{
+    background-color: aquamarine;
+    width: 20px;
+    display:inline-block;
+    margin-right:20px;
+}
+.col:hover{
+    width:30px;   
+}
+.col:hover i{
+   font-size: 15px;
+
+}
