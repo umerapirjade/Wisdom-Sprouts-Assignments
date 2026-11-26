@@ -1,13 +1,15 @@
-*{
+S*{
     margin:0;
     padding:0;
     box-sizing:border;
     
 }
-#INGREDIENT_STORY{
-    background-image:url('./assets/waves.jpeg');
+.INGREDIENT_STORY {
+    background-image: url("./assets/waves.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    min-height: 500px;
 }
 .rowImgStory{
    text-align: center;
